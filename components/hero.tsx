@@ -20,7 +20,7 @@ export default function Hero() {
         >
           <div className="space-y-2">
             <h1 className="text-3xl sm:text-4xl font-bold tracking-tight">Amith Sahani</h1>
-            <p className="text-lg sm:text-xl text-muted-foreground">Web Developement, GenAI and Data Analyst</p>
+            <p className="text-lg sm:text-xl text-muted-foreground">Data & AI/ML</p>
           </div>
 
           <div className="flex flex-col sm:flex-row gap-2 sm:gap-4 text-sm text-muted-foreground">
