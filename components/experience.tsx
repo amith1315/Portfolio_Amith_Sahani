@@ -20,7 +20,7 @@ const experiences = [
     period: "Jun 2025 - Aug 2025",
     responsibilities: [
       "Analyzed large, structured datasets using SQL and Python, focusing on performance and correctness.",
-      "Manage project deliverables in an agile setting, from rigorous model evaluation to communicating technical results to stakeholders.",
+      "Manage project deliverables in an agile setting from rigorous model evaluation to communicating technical results to stakeholders.",
     ],
     skills: ["Python","SQL"],
   },
