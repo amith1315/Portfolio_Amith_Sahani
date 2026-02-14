@@ -5,16 +5,35 @@ import { Badge } from "@/components/ui/badge"
 
 const experiences = [
   {
+    title: "Teaching Assistant(Statistics for Data Science)",
+    company: "PES University",
+    period: "Aug 2025 - Dec 2025",
+    responsibilities: [
+      "Guiding juniors in mastering data analytics tools such as Selenium, Beautiful Soup, Pandas, NumPy, and Seaborn.",
+      "While also strengthening their understanding of statistics, teaching them practical techniques in data cleaning,preprocessing, and visualization to help build strong analytical and problem-solving skills for real-world applications.",
+    ],
+    skills: ["Python","Numpy", "Selenium"],
+  },
+  {
+    title: "Data Science Intern",
+    company: "Evoastra Ventures",
+    period: "Jun 2025 - Aug 2025",
+    responsibilities: [
+      "Analyzed large, structured datasets using SQL and Python, focusing on performance and correctness."
+      "Manage project deliverables in an agile setting, from rigorous model evaluation to communicating technical results to stakeholders.",
+    ],
+    skills: ["Python","SQL"],
+  },
+  {
     title: "Research Intern",
     company: "PES University CCNCS",
     period: "Jun 2024 - Aug 2024",
     responsibilities: [
-      "Two Months of Research experience related to the application of Deep Neural Networks and Machine Learning techniques in Cybersecurity and Predictive Maintenance for Industrial IoTs",
-      "Worked on DNNs and Data Analysis",
+      "Designed and developed ML based anomaly detection systems to address cybersecurity challenges in Industrial IoT environments.",
+      "Worked with network protocols, real-time data streams, and system-level threat detection."
     ],
-    skills: ["Next.js","ReactJs", "JavaScript", "TailwindCSS"],
+    skills: ["Python","Scikit-learn" "TensorFlow","Network protocols"],
   },
-  //.. add more experiences..........😂
 ]
 
 export default function Experience() {
