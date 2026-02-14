@@ -19,7 +19,7 @@ const experiences = [
     company: "Evoastra Ventures",
     period: "Jun 2025 - Aug 2025",
     responsibilities: [
-      "Analyzed large, structured datasets using SQL and Python, focusing on performance and correctness."
+      "Analyzed large, structured datasets using SQL and Python, focusing on performance and correctness.",
       "Manage project deliverables in an agile setting, from rigorous model evaluation to communicating technical results to stakeholders.",
     ],
     skills: ["Python","SQL"],
@@ -30,7 +30,7 @@ const experiences = [
     period: "Jun 2024 - Aug 2024",
     responsibilities: [
       "Designed and developed ML based anomaly detection systems to address cybersecurity challenges in Industrial IoT environments.",
-      "Worked with network protocols, real-time data streams, and system-level threat detection."
+      "Worked with network protocols, real-time data streams, and system-level threat detection.",
     ],
     skills: ["Python","Scikit-learn" "TensorFlow","Network protocols"],
   },
