@@ -32,7 +32,7 @@ const experiences = [
       "Designed and developed ML based anomaly detection systems to address cybersecurity challenges in Industrial IoT environments.",
       "Worked with network protocols, real-time data streams, and system-level threat detection.",
     ],
-    skills: ["Python","Scikit-learn" "TensorFlow","Network protocols"],
+    skills: ["Python","Scikit-learn","TensorFlow","Network protocols"],
   },
 ]
 
